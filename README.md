@@ -14,18 +14,12 @@ A simple Python application that sends a user prompt to OpenAI's ChatGPT, retrie
 - python-dotenv
 
 ## Setup & Installation
-1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/yourusername/chatgpt-audio-responder.git
-    cd chatgpt-audio-responder
-    ```
-
-2. **Install Dependencies**
+1. **Install Dependencies**
     ```bash
     pip install -r requirements.txt
     ```
     
-3. **Configure API Keys**
+2. **Configure API Keys**
     - Create a `.env` file in the project root.
     - Add your API keys:
         ```plaintext
